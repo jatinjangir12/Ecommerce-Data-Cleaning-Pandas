@@ -1,5 +1,5 @@
 # Ecommerce-Data-Cleaning-Pandas
-Data exploration and cleaning using Python Pandas
+Data exploration and cleaning using Python Pandas and Numpy
 
 ## Objective
 Perform data exploration and cleaning using Python Pandas.
@@ -15,4 +15,5 @@ Perform data exploration and cleaning using Python Pandas.
 ## Tools Used
 - Python
 - Pandas
+- Numpy
 - Jupyter Notebook
