@@ -1,4 +1,4 @@
-# Ecommerce-Data-Cleaning-Pandas
+# Ecommerce-Data-Cleaning-Pandas-Numpy
 Data exploration and cleaning using Python Pandas and Numpy
 
 ## Objective
